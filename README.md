@@ -12,7 +12,7 @@ Welcome to my GitHub profile. I'm passionate about data insights and currently e
 
 Take a look at some of the projects I've been working on during my learning journey:
 
-- [Project 1](link-to-project-1): A comprehensive analysis of customer behavior using machine learning techniques.
+- [Project 1](): A comprehensivhttps://github.com/Asadxio/Hotel-Booking-Cancellation-Analysis-Maximizing-Revenue-Efficiency/tree/maine analysis of customer behavior using machine learning techniques.
 - [Project 2](link-to-project-2): Visualizing climate change data to understand its impact on different regions.
 - [Project 3](link-to-project-3): Exploring and predicting stock market trends using time series analysis.
 
