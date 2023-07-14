@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Asad_xio!
+# 👋 Hi there, I'm Asad_xio! a Data Analyst
 
 Welcome to my GitHub profile. I'm passionate about data insights and currently exploring the fascinating field of data science. As a fresher, I'm excited to kickstart my career in this domain. Here's a little more about me:
 
