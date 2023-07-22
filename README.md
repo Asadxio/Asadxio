@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm passionate about data insights and currently e
 - 👀 I’m interested in leveraging data to uncover meaningful insights and drive informed decision-making.
 - 🌱 I’m currently learning various data science techniques, including data analysis, machine learning, and data visualization. :brain:
 - 💞️ I’m looking to collaborate on exciting data dive projects where we can explore, analyze, and derive insights from diverse datasets. :chart_with_upwards_trend:
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asad-ali-044240262/) :mailbox_with_mail:
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/asad-ali-mulla-044240262/)) :mailbox_with_mail:aliasadcivil007@gmail.com
 -    Kaggle  : [Kaggle Profile](https://www.kaggle.com/asadxio) :bar_chart:
 
 ## 🔭 Projects
